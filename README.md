@@ -5,6 +5,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdevhaozi%2Fframework?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdevhaozi%2Fframework.svg?type=shield"/></a>
 </p>
 
 ## About Laravel
@@ -45,3 +46,6 @@ Please review [our security policy](https://github.com/laravel/framework/securit
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdevhaozi%2Fframework.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdevhaozi%2Fframework?ref=badge_large)
